@@ -11,10 +11,12 @@ With the Event Schedule System, we deliver a unique experience to guests, enabli
 # Installation:
 1.	Clone the repository to your local machine:
 git clone https://github.com/rahmabintangpratama/EventScheduleSystem.git 
-2.	Navigate to the application directory:
-cd EventScheduleSystem 
-3.	Run the application on your preferred web server.
-4.	Access the application through your web browser.
+2.	Place the cloned directory into the htdocs directory of your XAMPP installation.
+3.	Start your XAMPP server, ensuring both Apache and MySQL services are running.
+4.	Open your web browser and navigate to `http://localhost/phpmyadmin`.
+5.	Create a new database named `db_eventschedulesystem`.
+6.	Import the provided database into the `db_eventschedulesystem` database.
+7.	Navigate to `http://localhost/EventScheduleSystem` to access the application.
 
 # Usage:
 1.	Upon accessing the application, guests will be prompted to view event schedules.
