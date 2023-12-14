@@ -10,7 +10,7 @@ With the Event Schedule System, we deliver a unique experience to guests, enabli
 
 # Installation:
 1.	Clone the repository to your local machine:
-git clone https://github.com/rahmabintangpratama/EventScheduleSystem.git 
+`git clone https://github.com/rahmabintangpratama/EventScheduleSystem.git`
 2.	Place the cloned directory into the htdocs directory of your XAMPP installation.
 3.	Start your XAMPP server, ensuring both Apache and MySQL services are running.
 4.	Open your web browser and navigate to `http://localhost/phpmyadmin`.
