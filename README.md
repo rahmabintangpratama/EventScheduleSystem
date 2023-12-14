@@ -10,9 +10,9 @@ With the Event Schedule System, we deliver a unique experience to guests, enabli
 
 # Installation:
 1.	Clone the repository to your local machine:
-git clone https://github.com/rahmabintangpratama/eventschedulesystem.git 
+git clone https://github.com/rahmabintangpratama/EventScheduleSystem.git 
 2.	Navigate to the application directory:
-cd eventschedulesystem 
+cd EventScheduleSystem 
 3.	Run the application on your preferred web server.
 4.	Access the application through your web browser.
 
