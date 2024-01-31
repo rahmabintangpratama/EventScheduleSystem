@@ -1,4 +1,2 @@
 RewriteEngine On
 RewriteRule ^([a-zA-Z0-9]+)$ index.php?x=$1
-RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://eventschedulesystem.zya.me/$1 [R,L]
